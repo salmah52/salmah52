@@ -2,8 +2,8 @@
 ![image](https://user-images.githubusercontent.com/44398948/148699185-9e8a0815-0b21-4720-a2f1-3f485de2eddf.png)
 
 
-  - 🌱 I’m currently learning Advanced SQL abd MongoDB
- -  I'm currently working on Power Platform Projects
+  - 🌱 I’m currently learning Big Data
+ -  I'm currently working on Data Engineering Projects
  - 👀 I’m interested in ...  
  - 🌱 I’m currently learning Advanced SQL
  - 💞️ I’m looking to collaborate on ...
