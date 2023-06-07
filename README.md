@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/44398948/148699185-9e8a0815-0b21-4720-a2f1-3f485de2eddf.png)
+
 
 
   - 🌱 I’m currently learning Big Data
