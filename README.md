@@ -27,7 +27,7 @@
 
 # Let's Connect
 
-- 📫 You can reach me through [your_email@example.com](mailto:lasisisalmah52@gmail.com).
+- 📫 You can reach me through [lasisisalmah52@gmail.com](mailto:lasisisalmah52@gmail.com).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/salmahlasisi/).
 
 
