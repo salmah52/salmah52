@@ -27,8 +27,8 @@
 
 # Let's Connect
 
-- 📫 You can reach me through mail at lasisisalmah52@gmail.com.
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/salmahlasisi/)
+- 📫 You can reach me through [your_email@example.com](mailto:lasisisalmah52@gmail.com).
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/salmahlasisi/).
 
 
 # Portfolio
@@ -40,7 +40,7 @@
 
 - 🌟 Explore some of my top repositories:
   - [OpenWeatherETL](https://github.com/salmah52/OpenWeatherETL)
-  - [Event-Driven-data-processing](https://github.com/salmah52/Event-Driven-data-processing)
+  - [Event-Driven-data-processing](https://github.com/salmah52/Event-Driven-data-processing-)
   - [SpotifyDataPipeline](https://github.com/salmah52/SpotifyDataPipeline)
   - [uber_etl_pipeline](https://github.com/salmah52/uber_etl_pipeline)
   - [Super-Store-Analysis](https://github.com/salmah52/Super-Store-Analysis)
