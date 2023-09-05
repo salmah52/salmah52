@@ -1,4 +1,4 @@
-### About Me
+# About Me
 
 - 🌱 I’m currently learning Data Engineering, Big Data, Apache Airflow, and dbt.
 - 👀 I’m interested in Big Data, Data Analysis and Data Engineering.
@@ -7,7 +7,7 @@
 
   
 
-### What I Do
+# What I Do
 
 - 🛠️ I work on Data Engineering Projects, specializing in building robust data pipelines, ETL processes, and data warehousing solutions.
 - 📊 I'm passionate about Data Analysis, where I explore datasets, uncover insights, and make data-driven decisions.
