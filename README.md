@@ -2,9 +2,9 @@
 
 
 
-  - 🌱 I’m currently learning Big Data
+  - 🌱 I’m currently learning Data Engineering and Big Data
  -  I'm currently working on Data Engineering Projects
- - 👀 I’m interested in ...  
+ - 👀 I’m interested in Big Data, Data Analysis and Data Engineering 
  - 🌱 I’m currently learning Advanced SQL
  - 💞️ I’m looking to collaborate on ...
   -  Ask me about data engineering,data analysis, data visulaisation, data cleaning and sql
