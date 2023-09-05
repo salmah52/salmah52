@@ -15,6 +15,7 @@
 - 🌪️ I'm exploring Apache Airflow for orchestrating and automating complex data workflows.
 - 📈 I'm also delving into dbt (Data Build Tool) for transforming data in the analytics stack, enabling seamless data modeling and analytics.
 
+
 # My Expertise
 
 - 📈 Data Engineering: I design, develop, and optimize data pipelines, ensuring data is accessible, reliable, and scalable.
@@ -22,11 +23,13 @@
 - 📡 Big Data: I'm exploring technologies like Hadoop, Spark, and distributed databases to tackle large-scale data challenges.
 - ⚙️ Apache Airflow: I'm learning to use Apache Airflow for orchestrating complex data workflows, automating tasks, and scheduling jobs.
 - 🔄 dbt (Data Build Tool): I'm honing my skills in dbt to build and manage data transformations for analytics.
+- 
 
 # Let's Connect
 
 - 📫 You can reach me through mail at lasisisalmah52@gmail.com.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/salmahlasisi/)
+
 
 # Portfolio
 
