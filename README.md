@@ -1,3 +1,7 @@
+# Hello, I am Salmah 👋
+
+# Thanks for stopping by. Here's a little bit about myself...
+
 # About Me
 
 - 👀 I’m interested in Big Data, Data Analysis and Data Engineering.
