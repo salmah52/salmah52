@@ -2,8 +2,6 @@
 
 # Thanks for stopping by. Here's a little bit about myself...
 
-# About Me
-
 - 👀 I’m interested in Big Data, Data Analysis and Data Engineering.
 - 🌱 I’m currently learning Advanced SQL, DBT and Apache Airflow.
 - 💞️ I’m looking to collaborate on exciting data-related projects.
