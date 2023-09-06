@@ -1,6 +1,5 @@
 # About Me
 
-- 🌱 I’m currently learning Data Engineering, Big Data, Apache Airflow, and dbt.
 - 👀 I’m interested in Big Data, Data Analysis and Data Engineering.
 - 🌱 I’m currently learning Advanced SQL, DBT and Apache Airflow.
 - 💞️ I’m looking to collaborate on exciting data-related projects.
